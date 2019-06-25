@@ -172,7 +172,7 @@ $string['displayscorewithessays'] = 'Usted ha obtenido una puntuación de {$a->s
 
 Sus {$a->essayquestions} preguntas de tipo ensayo se calificarán posteriormente y su calificación se añadirá a su calificación final
 
-Su calificación actual sin contar esas preguntas es de is {$a->score} sobre {$a->grade}';
+Su calificación actual sin contar esas preguntas es de {$a->score} sobre {$a->grade}';
 $string['displayscorewithoutessays'] = 'Su puntuación es {$a->score} (sobre {$a->grade}).';
 $string['edit'] = 'Edición';
 $string['editingquestionpage'] = 'Editando página de preguntas {$a}';
